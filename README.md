@@ -8,6 +8,6 @@ This powerful platform is available open-source in the following repositories
 
 # Components
 
- * [sw-r2r](https://github.com/PrathamBooks/sw-r2r) Opensource export of StoryWeaver rails code (backend)
- * [sw-js-r2r](https://github.com/PrathamBooks/sw-js-r2r) Opensource export of StoryWeaver ReactJS code (frontend)
+ * [sw-spp-open](https://github.com/PrathamBooks/sw-spp-open) Opensource export of StoryWeaver rails code (backend)
+ * [sw-js-open](https://github.com/PrathamBooks/sw-js-open) Opensource export of StoryWeaver ReactJS code (frontend)
  * [sw-docker-deploy](https://github.com/PrathamBooks/sw-docker-deploy) Opensource docker deployment of StoryWeaver like platform
