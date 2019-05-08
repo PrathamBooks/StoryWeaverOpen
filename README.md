@@ -2,9 +2,9 @@
 
 [![Start](https://storyweaver.org.in/assets/media/storyweaver-logo.e8ce4cf1.svg)](https://storyweaver.org.in/)
 
-Welcome to StoryWeaver from Pratham Books! Designed to provide children with reading resources, StoryWeaver is a digital gateway to thousands of richly illustrated, open-licensed children's stories in mother tongue languages. There's more to StoryWeaver than just reading. It is also a first-of-its-kind platform that provides easy-to-use tools to create, adapt, and translate new stories for children. It's the ideal place for parents, educators, writers, translators, and illustrators to come together to weave new stories for children and help to create a pathway to nurture the next generation of readers!
+Welcome to StoryWeaver from Pratham Books, a digital repository of multilingual stories for children. StoryWeaver is attempting to address the scarcity of books for children by creating an open and collaborative framework where the creators and consumers of children’s content could interact with one another. Users can read, create, translate, download, and share stories for free.  Now, every child can have access to an endless stream of stories in her mother tongue.
 
-This powerful platform is available open-source in the following repositories
+This powerful platform is available open-source in the following repositories. 
 
 # Components
 
