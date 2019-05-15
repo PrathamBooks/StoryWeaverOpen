@@ -1,0 +1,15 @@
+#mainLogo {
+  max-height: 80px;
+}
+
+.card-content h3 {
+  text-align: center;
+}
+
+.projects-container .card {
+  margin-bottom: 2em;
+}
+
+#projects {
+  background: #f8f8f9;
+}
