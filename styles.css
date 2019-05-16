@@ -1,11 +1,3 @@
-.hero.is-primary .navbar-item {
-  border: 1px solid grey;
-}
-
-.hero.is-primary#navbar a.navbar-item {
-  color: black;
-}
-
 #mainLogo {
   max-height: 80px;
 }
