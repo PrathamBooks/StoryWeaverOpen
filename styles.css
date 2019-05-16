@@ -1,3 +1,19 @@
+body {
+  font-family: Raleway, sans-serif;
+}
+
+.content h1, .content h2, .content h3, .content h4 {
+  font-family: 'Bree Serif';
+}
+
+.content h4 {
+  
+}
+
+.hero.is-primary {
+  background-color: #4990e2;
+}
+
 #mainLogo {
   max-height: 80px;
 }
